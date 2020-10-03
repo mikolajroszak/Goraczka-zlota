@@ -1,7 +1,7 @@
 # Goraczka-zlota
 Gorączka złota by Mikołaj Roszak. All rights reserved.
-IdoSell 
-Konto: mikros612
+email: ul.echo12@gmail.com
+Przedwiośnie 79/12 73-110 Stargard
 Company Name	NIUM LIMITED
 Account Number	788672845
 SWIFT	DHBKHKHH
